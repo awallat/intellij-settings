@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="UserService" type="JAVA" />
+      <removed_mapping ext="jsp" approved="true" type="JSP" />
+      <mapping ext="jsp" type="JavaScript" />
+    </extensionMap>
+  </component>
+</application>
